@@ -1,0 +1,21 @@
+# Dependencies
+/node_modules
+/.pnpm-store
+
+# Next.js build output
+/.next/
+/out/
+
+# Production / build
+build
+dist
+
+# Temporary & debug files
+*.log
+extracted_ids.json
+.DS_Store
+*.pem
+
+# Environment variables
+.env*.local
+.env
